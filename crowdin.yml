@@ -7,7 +7,8 @@ preserve_hierarchy: 1
   {
     "source": "/develop/en/json.json",
     "translation": "/develop/%two_letters_code%/%two_letters_code%.json"
-  },
+  }
+]
 
 bundles:
-  - 3
+  -3
