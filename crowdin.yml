@@ -3,7 +3,7 @@ api_token_env: a5b9818249e6fef906b6ff5ff9be31030b5728d8cccdc81858737ba23e471e2b9
 base_url: 'https://sofiia.crowdin.com'
 preserve_hierarchy: 1
 files:
-  - source: /en/en.json
-    translation: /%two_letters_code%/%two_letters_code%.json
+  - source: /develop/en/en.json
+    translation: /develop/%two_letters_code%/%two_letters_code%.json
 bundles:
   - 3
