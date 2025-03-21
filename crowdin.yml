@@ -1,0 +1,6 @@
+project_id: 773600
+api_token_env: a5b9818249e6fef906b6ff5ff9be31030b5728d8cccdc81858737ba23e471e2b960313de83f18b19
+
+files:
+  - source: '/locales/en.json'
+    translation: '/locales/%locale%.json'
